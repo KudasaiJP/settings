@@ -1,24 +1,23 @@
 [
   {
-    "title": "DEFY",
-    "date": "Apr 26 2022 21:00 GMT+9",
-    "website": "https://defydisrupt.io/",
-    "twitter": "https://twitter.com/defydisrupt",
-    "discord": "https://discord.gg/WzPZESaUBX"
-  },
-  {
-    "title": "Gemie",
-    "date": "Apr 27 2022 21:00 GMT+9",
-    "website": "https://www.gemie.io/",
-    "twitter": "https://twitter.com/Gemie_Official",
-    "telegram": "https://t.me/gemieofficial",
-    "discord": "https://discord.gg/gemie"
-  },
-  {
     "title": "Rango",
     "date": "May 2 2022 21:00 GMT+9",
     "website": "https://rango.exchange/",
     "twitter": "https://twitter.com/RangoExchange",
     "telegram": "https://t.me/rangoexchange"
+  },
+  {
+    "title": "Pine",
+    "date": "May 9 2022 21:00 GMT+9",
+    "website": "https://pine.loans/",
+    "twitter": "https://twitter.com/PineLoans",
+    "telegram": "https://t.me/pineloans"
+  },
+  {
+    "title": "Epic War",
+    "date": "May 11 2022 21:00 GMT+9",
+    "website": "https://epicwar.io/",
+    "twitter": "https://twitter.com/the_epic_war",
+    "telegram": "https://t.me/epicwarglobal"
   }
 ]

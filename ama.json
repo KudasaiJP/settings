@@ -1,17 +1,24 @@
 [
   {
     "title": "CyberConnect",
-    "date": "June 1 2022 22:00 GMT+9",
+    "date": "2022-06-01T22:00+09:00",
     "website": "https://cyberconnect.me/",
     "twitter": "https://twitter.com/CyberConnectHQ",
     "discord": "https://discord.com/invite/bYJ3cB7bbC"
   },
   {
-    "title": "Voltz Protocol",
-    "date": "June 9 2022 21:00 GMT+9",
+    "title": "Voltz",
+    "date": "2022-06-09T21:00+09:00",
     "website": "https://www.voltz.xyz/",
     "twitter": "https://twitter.com/voltz_xyz",
     "discord": "https://discord.gg/KVWtUGRumk"
+  },
+  {
+    "title": "OpenLeverage",
+    "date": "2022-06-15",
+    "website": "https://openleverage.finance/",
+    "twitter": "https://twitter.com/OpenLeverage",
+    "discord": "https://discord.com/invite/openleverage"
   },
   {
     "title": "XANA",

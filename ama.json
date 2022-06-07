@@ -1,12 +1,5 @@
 [
   {
-    "title": "CyberConnect",
-    "date": "2022-06-01T22:00+09:00",
-    "website": "https://cyberconnect.me/",
-    "twitter": "https://twitter.com/CyberConnectHQ",
-    "discord": "https://discord.com/invite/bYJ3cB7bbC"
-  },
-  {
     "title": "Voltz",
     "date": "2022-06-09T21:00+09:00",
     "website": "https://www.voltz.xyz/",
@@ -26,5 +19,11 @@
     "twitter": "https://twitter.com/XANAMetaverse",
     "telegram": "http://t.me/xanaofficial",
     "discord": "https://discord.com/invite/XANA"
+  },
+  {
+    "title": "StarkNet",
+    "website": "https://starknet.io/",
+    "twitter": "https://twitter.com/Starknet_Intern",
+    "discord": "https://discord.gg/uJ9HZTUk2Y"
   }
 ]

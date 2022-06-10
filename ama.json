@@ -1,12 +1,5 @@
 [
   {
-    "title": "Voltz",
-    "date": "2022-06-09T21:00+09:00",
-    "website": "https://www.voltz.xyz/",
-    "twitter": "https://twitter.com/voltz_xyz",
-    "discord": "https://discord.gg/KVWtUGRumk"
-  },
-  {
     "title": "OpenLeverage",
     "date": "2022-06-15",
     "website": "https://openleverage.finance/",
@@ -15,6 +8,7 @@
   },
   {
     "title": "XANA",
+    "date": "2022-06-16T22:00+09:00",
     "website": "https://xana.net/",
     "twitter": "https://twitter.com/XANAMetaverse",
     "telegram": "http://t.me/xanaofficial",

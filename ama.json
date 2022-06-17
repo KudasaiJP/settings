@@ -1,26 +1,25 @@
 [
   {
-    "title": "XANA",
-    "note": "6月下旬検討中 / Late June",
-    "website": "https://xana.net/",
-    "twitter": "https://twitter.com/XANAMetaverse",
-    "discord": "https://discord.com/invite/XANA",
-    "telegram": "http://t.me/xanaofficial"
-  },
-  {
     "title": "DEFY",
-    "note": "6月下旬検討中 / Late June",
+    "date": "2022-06-29",
     "website": "https://defydisrupt.io/",
     "twitter": "https://twitter.com/defydisrupt",
     "discord": "https://discord.gg/WzPZESaUBX"
   },
   {
-    "title": "Subquery",
+    "title": "SubQuery",
     "note": "7月下旬検討中 / Early July",
     "website": "https://subquery.network/",
     "twitter": "https://twitter.com/SubQueryNetwork",
     "discord": "https://discord.com/invite/subquery",
     "telegram": "https://t.me/subquerynetwork"
+  },
+  {
+    "title": "XANA",
+    "website": "https://xana.net/",
+    "twitter": "https://twitter.com/XANAMetaverse",
+    "discord": "https://discord.com/invite/XANA",
+    "telegram": "http://t.me/xanaofficial"
   },
   {
     "title": "StarkNet",

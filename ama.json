@@ -8,6 +8,13 @@
     "discord": "https://discord.gg/WzPZESaUBX"
   },
   {
+    "title": "StarkWare",
+    "date": "2022-07-06T20:00+09:00",
+    "website": "https://starkware.co/",
+    "twitter": "https://twitter.com/StarkWareLtd",
+    "discord": "https://discord.gg/uJ9HZTUk2Y"
+  },
+  {
     "title": "SubQuery",
     "date": "2022-07-16T21:00+09:00",
     "website": "https://subquery.network/",
@@ -28,11 +35,5 @@
     "twitter": "https://twitter.com/XANAMetaverse",
     "discord": "https://discord.com/invite/XANA",
     "telegram": "http://t.me/xanaofficial"
-  },
-  {
-    "title": "StarkNet",
-    "website": "https://starknet.io/",
-    "twitter": "https://twitter.com/Starknet_Intern",
-    "discord": "https://discord.gg/uJ9HZTUk2Y"
   }
 ]

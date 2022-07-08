@@ -1,11 +1,11 @@
 [
   {
-    "title": "SubQuery",
-    "date": "2022-07-16T21:00+09:00",
-    "website": "https://subquery.network/",
-    "twitter": "https://twitter.com/SubQueryNetwork",
-    "discord": "https://discord.com/invite/subquery",
-    "telegram": "https://t.me/subquerynetwork"
+    "title": "beFITTER",
+    "date": "2022-07-13T21:00+09:00",
+    "website": "https://befitter.io/",
+    "twitter": "https://twitter.com/beFITTER_io",
+    "discord": "https://discord.gg/hSfajgQkzh",
+    "telegram": "https://t.me/befitter_chat"
   },
   {
     "title": "StarkWare",
@@ -19,12 +19,5 @@
     "website": "https://rango.exchange/",
     "twitter": "https://twitter.com/RangoExchange",
     "telegram": "https://t.me/rangoexchange"
-  },
-  {
-    "title": "XANA",
-    "website": "https://xana.net/",
-    "twitter": "https://twitter.com/XANAMetaverse",
-    "discord": "https://discord.com/invite/XANA",
-    "telegram": "http://t.me/xanaofficial"
   }
 ]

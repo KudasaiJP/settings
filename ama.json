@@ -2,6 +2,7 @@
   {
     "title": "Rango",
     "date": "2022-08-07T21:00+09:00",
+    "note": "Reward: 500 USDT",
     "website": "https://rango.exchange/",
     "twitter": "https://twitter.com/RangoExchange",
     "telegram": "https://t.me/rango_info"
@@ -13,5 +14,19 @@
     "website": "https://cybergalznft.com/",
     "twitter": "https://twitter.com/cybergalznft",
     "discord": "https://discord.gg/cybergalznft"
+  },
+  {
+    "title": "Project Galaxy",
+    "website": "https://galaxy.eco/",
+    "twitter": "https://twitter.com/ProjectGalaxyHQ",
+    "discord": "https://discord.io/ProjectGalaxyHQ",
+    "telegram": "https://t.me/ProjectGalaxyHQ"
+  },
+  {
+    "title": "Syscoin",
+    "website": "https://syscoin.org/",
+    "twitter": "https://twitter.com/syscoin",
+    "discord": "https://discord.gg/syscoin",
+    "telegram": "https://t.me/Syscoin_Official"
   }
 ]

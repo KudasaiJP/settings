@@ -2,10 +2,19 @@
   {
     "title": "Syscoin",
     "date": "2022-08-18T21:00+09:00",
-    "note": "Reward: 500 USDT",
+    "note": "Reward: 500 USD",
     "website": "https://syscoin.org/",
     "twitter": "https://twitter.com/syscoin",
     "discord": "https://discord.gg/syscoin",
     "telegram": "https://t.me/Syscoin_Official"
+  },
+  {
+    "title": "zkLend",
+    "date": "2022-09-01T21:00+09:00",
+    "note": "Reward: 10 Testnet Solts",
+    "website": "https://zklend.com/",
+    "twitter": "https://twitter.com/zkLend",
+    "discord": "https://discord.gg/3v7RhwtJ8S",
+    "telegram": "https://t.me/zkLendAnnouncements"
   }
 ]

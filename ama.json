@@ -6,5 +6,21 @@
     "twitter": "https://twitter.com/SweatEconomy",
     "discord": "http://discord.gg/sweateconomy",
     "telegram": "http://t.me/sweateconomy"
+  },
+  {
+    "title": "Hacken",
+    "date": "2022-09-07+21:00+09:00",
+    "note": "Reward: 12,000 HAI",
+    "website": "https://hacken.io/",
+    "twitter": "https://twitter.com/hackenclub",
+    "discord": "https://discord.gg/VYJXut8huR",
+    "telegram": "https://t.me/hackenio"
+  },
+  {
+    "title": "Immutable X",
+    "date": "2022-09-12",
+    "website": "https://www.immutable.com/",
+    "twitter": "https://twitter.com/Immutable",
+    "discord": "https://discord.com/invite/immutablex"
   }
 ]

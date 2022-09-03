@@ -23,5 +23,19 @@
     "website": "https://www.immutable.com/",
     "twitter": "https://twitter.com/Immutable",
     "discord": "https://discord.com/invite/immutablex"
+  },
+  {
+    "title": "ELF Masters",
+    "date": "2022-09-14T21:00+09:00",
+    "website": "https://elfmasters.com/",
+    "twitter": "https://twitter.com/ELF_Masters",
+    "discord": "http://discord.gg/vxze6Bm98u"
+  },
+  {
+    "title": "Aura Network",
+    "website": "https://aura.network/",
+    "twitter": "https://twitter.com/AuraNetworkHQ",
+    "discord": "https://discord.com/invite/PNCp4CXj7K",
+    "telegram": "https://t.me/AuraNetworkOfficial"
   }
 ]

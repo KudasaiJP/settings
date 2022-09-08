@@ -1,14 +1,5 @@
 [
   {
-    "title": "Hacken",
-    "date": "2022-09-07T21:00+09:00",
-    "note": "Reward: 12,000 HAI",
-    "website": "https://hacken.io/",
-    "twitter": "https://twitter.com/hackenclub",
-    "discord": "https://discord.gg/VYJXut8huR",
-    "telegram": "https://t.me/hackenio"
-  },
-  {
     "title": "Immutable X",
     "date": "2022-09-12T20:00+09:00",
     "website": "https://www.immutable.com/",
@@ -18,15 +9,9 @@
   {
     "title": "ELF Masters",
     "date": "2022-09-14T21:00+09:00",
+    "note": "Reward: 500 USD",
     "website": "https://elfmasters.com/",
     "twitter": "https://twitter.com/ELF_Masters",
     "discord": "http://discord.gg/vxze6Bm98u"
-  },
-  {
-    "title": "Aura Network",
-    "website": "https://aura.network/",
-    "twitter": "https://twitter.com/AuraNetworkHQ",
-    "discord": "https://discord.com/invite/PNCp4CXj7K",
-    "telegram": "https://t.me/AuraNetworkOfficial"
   }
 ]

@@ -1,14 +1,20 @@
 [
   {
-    "title": "Immutable X",
-    "date": "2022-09-12T20:00+09:00",
-    "website": "https://www.immutable.com/",
-    "twitter": "https://twitter.com/Immutable",
-    "discord": "https://discord.com/invite/immutablex"
+    "title": "StarkWare",
+    "date": "2022-09-19T21:00+09:00",
+    "website": "https://starkware.co/",
+    "twitter": "https://twitter.com/StarkWareLtd",
+    "discord": "https://starknet.io/discord"
+  },
+  {
+    "title": "FitR",
+    "date": "2022-09-21T22:00+09:00",
+    "website": "https://fitr.xyz/",
+    "twitter": "https://twitter.com/FitRofficial",
+    "discord": "https://discord.com/invite/fitr"
   },
   {
     "title": "ELF Masters",
-    "date": "2022-09-14T21:00+09:00",
     "note": "Reward: 500 USD",
     "website": "https://elfmasters.com/",
     "twitter": "https://twitter.com/ELF_Masters",

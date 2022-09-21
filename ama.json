@@ -1,12 +1,5 @@
 [
   {
-    "title": "StarkWare",
-    "date": "2022-09-19T21:00+09:00",
-    "website": "https://starkware.co/",
-    "twitter": "https://twitter.com/StarkWareLtd",
-    "discord": "https://starknet.io/discord"
-  },
-  {
     "title": "FitR",
     "date": "2022-09-21T22:00+09:00",
     "website": "https://fitr.xyz/",
@@ -15,10 +8,25 @@
   },
   {
     "title": "Aura Network",
-    "date": "2022-09-27",
+    "date": "2022-09-27T21:00+09:00",
     "website": "https://aura.network/",
     "twitter": "https://twitter.com/AuraNetworkHQ",
     "discord": "https://discord.com/invite/PNCp4CXj7K",
     "telegram": "https://t.me/AuraNetworkOfficial"
+  },
+  {
+    "title": "Huobi Global",
+    "date": "2022-09-29T21:00+09:00",
+    "website": "https://www.huobi.com/en-us/",
+    "twitter": "https://twitter.com/huobiglobal",
+    "discord": "https://discord.gg/huobi",
+    "telegram": "https://t.me/HuobiGlobalAnnouncementChannel"
+  },
+  {
+    "title": "FTX Japan",
+    "date": "2022-10-04T21:00+09:00",
+    "website": "https://ftx.com/jp/home/",
+    "twitter": "https://twitter.com/FTX_JP",
+    "telegram": "https://t.me/ftxjapan"
   }
 ]

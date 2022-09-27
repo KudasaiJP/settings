@@ -11,5 +11,19 @@
     "title": "FTX Japan",
     "website": "https://ftx.com/jp/home/",
     "twitter": "https://twitter.com/FTX_JP"
+  },
+  {
+    "title": "Subspace Network",
+    "website": "https://subspace.network/",
+    "twitter": "https://twitter.com/NetworkSubspace",
+    "discord": "https://discord.gg/subspace-network",
+    "telegram": "https://t.me/subspace_network"
+  },
+  {
+    "title": "cega",
+    "date": "2022-10-10T21:00+09:00",
+    "website": "https://app.cega.fi/",
+    "twitter": "https://twitter.com/cega_fi",
+    "discord": "https://discord.gg/cega",
   }
 ]

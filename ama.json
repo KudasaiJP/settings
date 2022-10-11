@@ -9,10 +9,14 @@
   {
     "title": "BinaryX",
     "date": "2022-10-13T21:00+09:00",
-    "website": "https://www.binaryx.pro",
-    "twitter": "https://twitter.com/binary_x",
-    "discord": "https://discord.gg/binaryx",
-    "telegram": "https://t.me/binaryxGlobal"
+    "website":"https://app.cega.fi/",
+    "twitter":"https://twitter.com/binary_x",
+    "discord":"https://discord.gg/binaryx"
+  },
+  {
+    "title": "Gate.io Japan",
+    "website":"https://www.gate.io/ja",
+    "twitter":"https://twitter.com/binary_x"
   },
   {
     "title": "FTX Japan",

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Subspace Network",
-    "date": "2022-10-06T21:00+09:00",
-    "website": "https://subspace.network/",
-    "twitter": "https://twitter.com/NetworkSubspace",
-    "discord": "https://discord.gg/subspace-network",
-    "telegram": "https://t.me/subspace_network"
-  },
-  {
     "title": "cega",
     "date": "2022-10-11T21:00+09:00",
     "website": "https://app.cega.fi/",
@@ -16,7 +8,11 @@
   },
   {
     "title": "BinaryX",
-    "date": "2022-10-13T21:00+09:00"
+    "date": "2022-10-13T21:00+09:00",
+    "website": "https://www.binaryx.pro",
+    "twitter": "https://twitter.com/binary_x",
+    "discord": "https://discord.gg/binaryx",
+    "telegram": "https://t.me/binaryxGlobal"
   },
   {
     "title": "FTX Japan",

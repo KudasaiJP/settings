@@ -1,19 +1,18 @@
 [
   {
-    "title": "ApeX Protocol",
-    "date": "2022-10-31T21:00+09:00",
-    "website": "https://apex.exchange/",
-    "twitter": "https://twitter.com/OfficialApeXdex",
-    "discord": "https://discord.gg/366Puqavwx",
-    "telegram": "https://t.me/ApeXdex"
-  },
-  {
     "title": "Thena",
     "date": "2022-11-03T21:00+09:00",
     "website": "https://www.thena.fi/",
     "twitter": "https://twitter.com/ThenaFi_",
     "discord": "https://discord.gg/thena",
     "telegram": "https://t.me/Thena_Fi"
+  },
+  {
+    "title": "Voltz Labs",
+    "date": "2022-11-11T21:00+09:00",
+    "website": "https://www.voltz.xyz/",
+    "twitter": "https://twitter.com/voltz_xyz",
+    "discord": "https://discord.gg/voltzlabs"
   },
   {
     "title": "FTX Japan",

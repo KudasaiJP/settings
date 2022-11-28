@@ -7,10 +7,23 @@
     "telegram": "https://t.me/liquityprotocol"
   },
   {
-    "title": "Voltz Labs",
-    "date": "2022-11-11T21:00+09:00",
-    "website": "https://www.voltz.xyz/",
-    "twitter": "https://twitter.com/voltz_xyz",
-    "discord": "https://discord.gg/voltzlabs"
+    "title": "Niseko Tokyu Grand HIRAFU",
+    "date": "2022-12-02T21:00+09:00",
+    "website": "https://www.grand-hirafu.jp/winter/",
+    "twitter": "https://twitter.com/GrandHIRAFU"
+  },
+  {
+    "title": "Stader Labs",
+    "date": "2022-12-05T22:00+09:00",
+    "website": "https://staderlabs.com/",
+    "twitter": "https://twitter.com/staderlabs",
+    "telegram": "https://t.me/staderlabs"
+  },
+  {
+    "title": "Helio Protocol",
+    "date": "2022-12-15T21:00+09:00",
+    "website": "https://helio.money/",
+    "twitter": "https://twitter.com/Helio_Money",
+    "telegram": "https://t.me/helio_money"
   }
 ]

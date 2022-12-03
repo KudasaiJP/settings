@@ -1,12 +1,5 @@
 [
   {
-    "title": "Liquity",
-    "date": "2022-11-30T21:00+09:00",
-    "website": "https://www.liquity.org/",
-    "twitter": "https://twitter.com/LiquityProtocol",
-    "telegram": "https://t.me/liquityprotocol"
-  },
-  {
     "title": "Niseko Tokyu Grand HIRAFU",
     "date": "2022-12-02T21:00+09:00",
     "website": "https://www.grand-hirafu.jp/winter/",
@@ -18,12 +11,5 @@
     "website": "https://staderlabs.com/",
     "twitter": "https://twitter.com/staderlabs",
     "telegram": "https://t.me/staderlabs"
-  },
-  {
-    "title": "Helio Protocol",
-    "date": "2022-12-15T21:00+09:00",
-    "website": "https://helio.money/",
-    "twitter": "https://twitter.com/Helio_Money",
-    "telegram": "https://t.me/helio_money"
   }
 ]

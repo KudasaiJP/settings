@@ -1,21 +1,22 @@
 [
   {
-    "title": "Bebop",
-    "date": "2023-01-17T21:00+09:00",
-    "website": "https://bebop.xyz/",
-    "twitter": "https://twitter.com/bebop_dex",
-    "discord": "https://discord.gg/bebop"
+    "title": "Fusionist",
+    "date": "2023-01-20T21:00+09:00",
+    "website": "https://www.fusionist.io/",
+    "twitter": "https://twitter.com/fusionistio",
+    "discord": "https://discord.gg/fusionist"
   },
   {
     "title": "Phi",
+    "date": "2023-01-24",
     "website": "https://philand.xyz/",
     "twitter": "https://twitter.com/phi_xyz",
     "discord": "https://discord.gg/phi"
   },
   {
-    "title": "XANA 3回目",
-    "website": "https://xana.net/",
-    "twitter": "https://twitter.com/XANAMetaverse",
-    "discord": "https://discord.gg/xana"
+    "title": "lensta",
+    "date": "2023-01-31T21:00+09:00",
+    "website": "https://app.lensta.xyz/my-feed",
+    "twitter": "https://twitter.com/lenstaxyz"
   }
 ]

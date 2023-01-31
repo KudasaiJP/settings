@@ -11,5 +11,19 @@
     "date": "2023-02-13",
     "website": "https://hibikirun.com/",
     "twitter": "https://twitter.com/HibikiRunTeam"
+  },
+  {
+    "title": "XANA",
+    "date": "2023-02-20T21:00+09:00",
+    "website": "https://xana.net/",
+    "twitter": "https://twitter.com/XANAMetaverse",
+    "discord": "https://discord.gg/xana"
+  },
+  {
+    "title": "ZKX",
+    "date": "2023-02-22T21:00+09:00",
+    "website": "https://zkx.fi/#notifysection",
+    "twitter": "https://twitter.com/zkxprotocol",
+    "discord": "https://discord.gg/7vzAG48P"
   }
 ]

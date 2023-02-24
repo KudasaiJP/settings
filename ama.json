@@ -1,15 +1,5 @@
 [
   {
-    "title": "よーぶんさんようこそ #4",
-    "date": "2023-02-22T22:00+09:00"
-  },
-  {
-    "title": "Binance NFT",
-    "date": "2023-02-24T21:00+09:00",
-    "website": "https://www.binance.com/en/nft/home?ref=NFTTW",
-    "twitter": "https://twitter.com/TheBinanceNFT"
-  },
-  {
     "title": "dYdX",
     "date": "2023-02-27T21:00+09:00",
     "website": "https://dydx.exchange/",
@@ -22,6 +12,12 @@
     "website": "https://zkx.fi/#notifysection",
     "twitter": "https://twitter.com/zkxprotocol",
     "discord": "https://discord.gg/7vzAG48P"
+  },
+  {
+    "title": "FiNANCiE",
+    "date": "2023-03-06T21:00+09:00",
+    "website": "https://financie.jp/",
+    "twitter": "https://twitter.com/financie_jp"
   },
   {
     "title": "Flare network",

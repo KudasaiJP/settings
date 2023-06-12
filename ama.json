@@ -1,12 +1,5 @@
 [
   {
-    "title": "Slash Vision Labs",
-    "date": "2023-06-09T21:00+09:00",
-    "website": "https://slash.fi/",
-    "twitter": "https://twitter.com/SlashWeb3",
-    "discord": "https://discord.gg/46a3Rm6P"
-  },
-  {
     "title": "Alchemy",
     "date": "2023-06-13T21:00+09:00",
     "website": "https://www.alchemy.com/",
@@ -14,6 +7,7 @@
   },
   {
     "title": "Maverick Protocol",
+    "date": "2023-06-15T21:00+09:00",
     "website": "https://www.mav.xyz/",
     "twitter": "https://twitter.com/mavprotocol"
   },
@@ -21,5 +15,11 @@
     "title": "よーぶんさんよーこそ(よーぶんせき)",
     "date": "2023-06-16T22:00+09:00",
     "twitter": "https://twitter.com/kudasai_japan"
+  },
+  {
+    "title": "SlowMist",
+    "date": "2023-06-22T21:00+09:00",
+    "website": "https://www.slowmist.com/",
+    "twitter": "https://twitter.com/SlowMist_Team"
   }
 ]

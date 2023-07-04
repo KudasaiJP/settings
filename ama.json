@@ -1,10 +1,4 @@
 [
-  {
-    "title": "CRYPTO FRIENDS in Kyoto",
-    "date": "2023-06-29T16:00+09:00",
-    "website": "https://lu.ma/cryptofriends",
-    "twitter": "https://twitter.com/kudasai_japan/status/1666046861969588225"
-  },
    {
     "title": "よーぶんさんようこそ#7 TBF",
     "date": "2023-07-04T22:00+09:00",
@@ -15,6 +9,12 @@
     "date": "2023-07-06T21:00+09:00",
     "website": "https://www.swellnetwork.io/",
     "twitter": "https://twitter.com/swellnetworkio"
+  },
+  {
+    "title": "WebX",
+    "date": "2023-07-10T21:00+09:00",
+    "website": "https://webx-asia.com/",
+    "twitter": "https://twitter.com/WebX_Asia"
   },
   {
     "title": "EigenLayer",

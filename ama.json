@@ -1,21 +1,4 @@
 [
-   {
-    "title": "よーぶんさんようこそ#7 TBF",
-    "date": "2023-07-04T22:00+09:00",
-    "twitter": "https://twitter.com/TBF_crypto"
-  },
-  {
-    "title": "Swell",
-    "date": "2023-07-06T21:00+09:00",
-    "website": "https://www.swellnetwork.io/",
-    "twitter": "https://twitter.com/swellnetworkio"
-  },
-  {
-    "title": "WebX",
-    "date": "2023-07-10T21:00+09:00",
-    "website": "https://webx-asia.com/",
-    "twitter": "https://twitter.com/WebX_Asia"
-  },
   {
     "title": "EigenLayer",
     "date": "2023-07-11T21:00+09:00",
@@ -33,5 +16,23 @@
     "date": "2023-07-16T21:00+09:00",
     "website": "https://www.mjmeta.io/ja/index",
     "twitter": "https://twitter.com/0xMJM"
-  }
+  },
+   {
+    "title": "Bloxroute",
+    "date": "2023-07-18T21:00+09:00",
+    "website": "https://bloxroute.com/",
+    "twitter": "https://twitter.com/bloXrouteLabs"
+  },
+  {
+    "title": "Taiko",
+    "date": "2023-07-28T21:00+09:00",
+    "website": "https://taiko.xyz/",
+    "twitter": "https://twitter.com/taikoxyz"
+  },
+  {
+    "title": "WebX",
+    "date": "2023-07-10T21:00+09:00",
+    "website": "https://webx-asia.com/",
+    "twitter": "https://twitter.com/WebX_Asia"
+  },
 ]

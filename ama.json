@@ -24,15 +24,16 @@
     "twitter": "https://twitter.com/bloXrouteLabs"
   },
   {
-    "title": "Taiko",
-    "date": "2023-07-28T21:00+09:00",
-    "website": "https://taiko.xyz/",
-    "twitter": "https://twitter.com/taikoxyz"
-  },
-  {
     "title": "CRYPTO FRIENDS IN TOKYO",
     "date": "2023-07-24T18:00+09:00",
     "website": "https://lu.ma/CRYPTOFRIENDSTOKYO",
     "twitter": "https://twitter.com/kudasai_japan"
+  },
+  {
+    "title": "Taiko",
+    "date": "2023-07-28T21:00+09:00",
+    "website": "https://taiko.xyz/",
+    "twitter": "https://twitter.com/taikoxyz"
   }
+  
 ]

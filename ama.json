@@ -1,11 +1,5 @@
 [
    {
-    "title": "Zerion",
-    "date": "2023-07-14T21:00+09:00",
-    "website": "https://zerion.io/",
-    "twitter": "https://twitter.com/zerion"
-  },
-  {
     "title": "Mahjong Meta",
     "date": "2023-07-16T21:00+09:00",
     "website": "https://www.mjmeta.io/ja/index",
@@ -31,8 +25,14 @@
   },
    {
     "title": "Stader",
-    "date": "2023-08-01T21:00+09:00",
+    "date": "2023-08-01T22:00+09:00",
     "website": "https://www.staderlabs.com/",
     "twitter": "https://twitter.com/staderlabs"
+  },
+   {
+    "title": "Kontos",
+    "date": "2023-08-04T21:00+09:00",
+    "website": "https://www.kontos.io/",
+    "twitter": "https://twitter.com/Kontosio"
   }
 ]

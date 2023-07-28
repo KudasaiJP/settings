@@ -1,22 +1,4 @@
 [
-   {
-    "title": "Mahjong Meta",
-    "date": "2023-07-16T21:00+09:00",
-    "website": "https://www.mjmeta.io/ja/index",
-    "twitter": "https://twitter.com/0xMJM"
-  },
-   {
-    "title": "Bloxroute",
-    "date": "2023-07-18T21:00+09:00",
-    "website": "https://bloxroute.com/",
-    "twitter": "https://twitter.com/bloXrouteLabs"
-  },
-  {
-    "title": "CRYPTO FRIENDS IN TOKYO",
-    "date": "2023-07-24T18:00+09:00",
-    "website": "https://lu.ma/CRYPTOFRIENDSTOKYO",
-    "twitter": "https://twitter.com/kudasai_japan"
-  },
   {
     "title": "Taiko",
     "date": "2023-07-28T21:00+09:00",
@@ -34,5 +16,11 @@
     "date": "2023-08-04T21:00+09:00",
     "website": "https://www.kontos.io/",
     "twitter": "https://twitter.com/Kontosio"
+  },
+   {
+    "title": "Creta",
+    "date": "2023-08-10T21:00+09:00",
+    "website": "https://creta.world/",
+    "twitter": "https://twitter.com/CRETA_WORLD"
   }
 ]

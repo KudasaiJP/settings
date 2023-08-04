@@ -1,26 +1,26 @@
 [
   {
-    "title": "Taiko",
-    "date": "2023-07-28T21:00+09:00",
-    "website": "https://taiko.xyz/",
-    "twitter": "https://twitter.com/taikoxyz"
-  },
-   {
-    "title": "Stader",
-    "date": "2023-08-01T22:00+09:00",
-    "website": "https://www.staderlabs.com/",
-    "twitter": "https://twitter.com/staderlabs"
-  },
-   {
-    "title": "Kontos",
-    "date": "2023-08-04T21:00+09:00",
-    "website": "https://www.kontos.io/",
-    "twitter": "https://twitter.com/Kontosio"
-  },
-   {
     "title": "Creta",
     "date": "2023-08-10T21:00+09:00",
     "website": "https://creta.world/",
     "twitter": "https://twitter.com/CRETA_WORLD"
+  },
+   {
+    "title": "よーぶんさんよーこそ(Mican＆Qash)",
+    "date": "2023-08-13T22:00+09:00",
+    "twitter": "https://twitter.com/angel65535",
+    "twitter": "https://twitter.com/qash_NFT"
+  },
+   {
+    "title": "Gitcoin",
+    "date": "2023-08-16T21:00+09:00",
+    "website": "https://www.gitcoin.co/",
+    "twitter": "https://twitter.com/gitcoin"
+  },
+   {
+    "title": "Safepal",
+    "date": "2023-08-22T21:00+09:00",
+    "website": "https://safepal.com/en/",
+    "twitter": "https://twitter.com/iSafePal"
   }
 ]

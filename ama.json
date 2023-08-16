@@ -1,25 +1,20 @@
 [
    {
-    "title": "よーぶんさんよーこそ(Qash)",
-    "date": "2023-08-13T22:00+09:00",
-    "twitter": "https://twitter.com/qash_NFT"
-  },
-  {
-    "title": "CyberConnect",
-    "date": "2023-08-14T21:00+09:00",
-    "website": "https://cyberconnect.me/",
-    "twitter": "https://twitter.com/CyberConnectHQ"
-  },
-   {
-    "title": "Gitcoin",
-    "date": "2023-08-16T21:00+09:00",
-    "website": "https://www.gitcoin.co/",
-    "twitter": "https://twitter.com/gitcoin"
-  },
-   {
     "title": "Safepal",
     "date": "2023-08-22T21:00+09:00",
     "website": "https://safepal.com/en/",
     "twitter": "https://twitter.com/iSafePal"
+  },
+   {
+    "title": "TallyUP!",
+    "date": "2023-08-25T22:00+09:00",
+    "website": "https://www.tallyup.com/",
+    "twitter": "https://twitter.com/tallyup"
+  },
+   {
+    "title": "zetachain 2回目",
+    "date": "2023-08-28T21:00+09:00",
+    "website": "https://www.zetachain.com/",
+    "twitter": "https://twitter.com/zetablockchain"
   }
 ]

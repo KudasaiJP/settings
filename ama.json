@@ -1,12 +1,5 @@
 [
   {
-    "title": "dappOS",
-    "date": "2023-09-28T21:00:00+09:00",
-    "website": "https://dappos.com/",
-    "twitter": "https://twitter.com/dappOS_com",
-    "discord": "https://discord.gg/WTJ6QCv2"
-  },
-  {
     "title": "Shrapnel",
     "date": "2023-10-06T22:00:00+09:00",
     "website": "https://www.shrapnel.com/",
@@ -18,5 +11,17 @@
     "date": "2023-10-12T21:00:00+09:00",
     "website": "https://bigtime.gg/ja/",
     "twitter": "https://twitter.com/playbigtime"
+  },
+  {
+    "title": "よーぶんさんよーこそ(Micanさん)",
+    "date": "2023-10-14T22:00:00+09:00",
+    "twitter": "https://twitter.com/angel65535",
+  },
+  {
+    "title": "ZKX 2回目",
+    "date": "2023-10-24T21:00:00+09:00",
+    "website": "https://app.zkx.fi/",
+    "twitter": "https://twitter.com/zkxprotocol",
+    "discord": "https://discord.gg/2NX75Mz3"
   }
 ]

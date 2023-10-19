@@ -1,15 +1,15 @@
 [
   {
-    "title": "ZKX 2回目",
-    "date": "2023-11-09T21:00:00+09:00",
-    "website": "https://app.zkx.fi/",
-    "twitter": "https://twitter.com/zkxprotocol",
-    "discord": "https://discord.gg/2NX75Mz3",
-  },
-  {
     "title": "Bluefin",
     "date": "2023-10-23T21:00:00+09:00",
     "website": "https://bluefin.io/",
     "twitter": "https://twitter.com/bluefinapp"
+  },
+  {
+    "title": "ZKX 2回目",
+    "date": "2023-11-09T21:00:00+09:00",
+    "website": "https://app.zkx.fi/",
+    "twitter": "https://twitter.com/zkxprotocol",
+    "discord": "https://discord.gg/2NX75Mz3"
   }
 ]

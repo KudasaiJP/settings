@@ -1,21 +1,20 @@
 [
   {
-    "title": "Bluefin",
-    "date": "2023-10-26T21:00:00+09:00",
-    "website": "https://bluefin.io/",
-    "twitter": "https://twitter.com/bluefinapp"
-  },
-  {
     "title": "OASYS",
     "date": "2023-11-07T21:00:00+09:00",
     "website": "https://www.oasys.games/",
     "twitter": "https://twitter.com/oasys_games"
   },
   {
-    "title": "ZKX 2回目",
-    "date": "2023-11-09T21:00:00+09:00",
-    "website": "https://app.zkx.fi/",
-    "twitter": "https://twitter.com/zkxprotocol",
-    "discord": "https://discord.gg/2NX75Mz3"
+    "title": "Binance Japan",
+    "date": "2023-11-14T21:00:00+09:00",
+    "twitter": "https://twitter.com/_BinanceJapan"
+  },
+  {
+    "title": "Firefly 2回目",
+    "date": "2023-11-17T21:00:00+09:00",
+    "website": "https://firefly.land/",
+    "twitter": "https://twitter.com/thefireflyapp",
+    "discord": "https://discord.gg/4ARcQt9m"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
-    "title": "OASYS",
-    "date": "2023-11-07T21:00:00+09:00",
-    "website": "https://www.oasys.games/",
-    "twitter": "https://twitter.com/oasys_games"
+    "title": "Cradles",
+    "date": "2023-11-10T21:00:00+09:00",
+    "twitter": "https://twitter.com/cradlesio",
+    "website": "https://www.cradles.io/"
   },
   {
     "title": "Binance Japan",
@@ -16,5 +16,10 @@
     "website": "https://firefly.land/",
     "twitter": "https://twitter.com/thefireflyapp",
     "discord": "https://discord.gg/4ARcQt9m"
+  },
+  {
+    "title": "OASYS",
+    "website": "https://www.oasys.games/",
+    "twitter": "https://twitter.com/oasys_games"
   }
 ]

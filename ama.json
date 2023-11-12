@@ -11,13 +11,6 @@
     "twitter": "https://twitter.com/Injective_"
   },
   {
-    "title": "Firefly 2回目",
-    "date": "2023-11-17T21:00:00+09:00",
-    "website": "https://firefly.land/",
-    "twitter": "https://twitter.com/thefireflyapp",
-    "discord": "https://discord.gg/4ARcQt9m"
-  },
-  {
     "title": "OASYS",
     "date": "2023-11-21T21:00:00+09:00",
     "website": "https://www.oasys.games/",
@@ -30,5 +23,11 @@
     "twitter": "https://twitter.com/ElixirProtocol",
     "discord": "https://discord.gg/elixirprotocol"
     
+  },
+  {
+    "title": "Firefly 2回目",
+    "website": "https://firefly.land/",
+    "twitter": "https://twitter.com/thefireflyapp",
+    "discord": "https://discord.gg/4ARcQt9m"
   }
 ]

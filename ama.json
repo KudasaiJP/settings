@@ -1,20 +1,15 @@
 [
   {
-    "title": "Binance Japan",
-    "date": "2023-11-14T21:00:00+09:00",
-    "twitter": "https://twitter.com/_BinanceJapan"
-  },
-   {
-    "title": "Injective",
-    "date": "2023-11-15T22:00:00+09:00",
-    "website": "https://injective.com/", 
-    "twitter": "https://twitter.com/Injective_"
-  },
-  {
     "title": "OASYS",
     "date": "2023-11-21T21:00:00+09:00",
     "website": "https://www.oasys.games/",
     "twitter": "https://twitter.com/oasys_games"
+  },
+  {
+    "title": "YAY!",
+    "date": "2023-11-23T21:00:00+09:00",
+    "website": "https://yay.space/",
+    "twitter": "https://twitter.com/Yay_jp"
   },
   {
     "title": "Elixir",
@@ -22,7 +17,20 @@
     "website": "https://app.elixir.finance/orderbooks",
     "twitter": "https://twitter.com/ElixirProtocol",
     "discord": "https://discord.gg/elixirprotocol"
-    
+  },
+  {
+    "title": "Gashero",
+    "date": "2023-12-01T21:00:00+09:00",
+    "website": "https://gashero.com/",
+    "twitter": "https://twitter.com/GasHeroOfficial",
+    "discord": "https://discord.gg/ZbFvnhyD"
+  },
+   {
+    "title": "zkPass",
+    "date": "2023-12-04T21:00:00+09:00",
+    "website": "https://zkpass.org/home",
+    "twitter": "https://twitter.com/zkPass",
+    "discord": "https://discord.gg/zkpass"
   },
   {
     "title": "Firefly 2回目",

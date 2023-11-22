@@ -1,11 +1,5 @@
 [
   {
-    "title": "OASYS",
-    "date": "2023-11-21T21:00:00+09:00",
-    "website": "https://www.oasys.games/",
-    "twitter": "https://twitter.com/oasys_games"
-  },
-  {
     "title": "YAY!",
     "date": "2023-11-23T21:00:00+09:00",
     "website": "https://yay.space/",
@@ -17,6 +11,13 @@
     "website": "https://app.elixir.finance/orderbooks",
     "twitter": "https://twitter.com/ElixirProtocol",
     "discord": "https://discord.gg/elixirprotocol"
+  },
+  {
+    "title": "コインムスメ",
+    "date": "2023-11-30T21:00:00+09:00",
+    "website": "https://coinmusme.com/",
+    "twitter": "https://twitter.com/coinmusme_JP",
+    "discord": "https://discord.gg/coinmusme"
   },
   {
     "title": "Gashero",

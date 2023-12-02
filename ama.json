@@ -1,25 +1,5 @@
 [
   {
-    "title": "YAY!",
-    "date": "2023-11-23T21:00:00+09:00",
-    "website": "https://yay.space/",
-    "twitter": "https://twitter.com/Yay_jp"
-  },
-  {
-    "title": "Elixir",
-    "date": "2023-11-28T22:00:00+09:00",
-    "website": "https://app.elixir.finance/orderbooks",
-    "twitter": "https://twitter.com/ElixirProtocol",
-    "discord": "https://discord.gg/elixirprotocol"
-  },
-  {
-    "title": "コインムスメ",
-    "date": "2023-11-30T21:00:00+09:00",
-    "website": "https://coinmusme.com/",
-    "twitter": "https://twitter.com/coinmusme_JP",
-    "discord": "https://discord.gg/coinmusme"
-  },
-  {
     "title": "zkPass",
     "date": "2023-12-04T21:00:00+09:00",
     "website": "https://zkpass.org/home",
@@ -41,7 +21,20 @@
     "discord": "https://discord.gg/Z6c9cJpv"
   },
   {
+    "title": "Optimism",
+    "date": "2023-12-12T23:00:00+09:00",
+    "website": "https://www.optimism.io/",
+    "twitter": "https://twitter.com/optimismFND"
+  },
+   {
+    "title": "dYdX",
+    "date": "2023-12-14T21:00:00+09:00",
+    "website": "https://dydx.exchange/",
+    "twitter": "https://twitter.com/dYdX"
+  },
+  {
     "title": "Firefly 2回目",
+    "date": "2023-12-18T21:00:00+09:00",
     "website": "https://firefly.land/",
     "twitter": "https://twitter.com/thefireflyapp",
     "discord": "https://discord.gg/4ARcQt9m"

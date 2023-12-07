@@ -1,19 +1,5 @@
 [
   {
-    "title": "zkPass",
-    "date": "2023-12-04T21:00:00+09:00",
-    "website": "https://zkpass.org/home",
-    "twitter": "https://twitter.com/zkPass",
-    "discord": "https://discord.gg/zkpass"
-  },
-  {
-    "title": "Gashero",
-    "date": "2023-12-06T21:00:00+09:00",
-    "website": "https://gashero.com/",
-    "twitter": "https://twitter.com/GasHeroOfficial",
-    "discord": "https://discord.gg/ZbFvnhyD"
-  },
-  {
     "title": "Kudasai忘年会2023",
     "date": "2023-12-09T19:00:00+09:00",
     "website": "https://kudasai.co.jp/",
@@ -21,10 +7,11 @@
     "discord": "https://discord.gg/Z6c9cJpv"
   },
   {
-    "title": "Optimism",
-    "date": "2023-12-12T23:00:00+09:00",
-    "website": "https://www.optimism.io/",
-    "twitter": "https://twitter.com/optimismFND"
+    "title": "Mantle",
+    "date": "2023-12-12T21:00:00+09:00",
+    "website": "https://www.mantle.xyz/ja",
+    "twitter": "https://twitter.com/0xMantle",
+    "discord": "https://discord.gg/0xmantle"
   },
    {
     "title": "dYdX",
@@ -38,5 +25,15 @@
     "website": "https://firefly.land/",
     "twitter": "https://twitter.com/thefireflyapp",
     "discord": "https://discord.gg/4ARcQt9m"
+  },
+  {
+    "title": "よーぶんさんよーこそ(Mican先生第2部)",
+    "date": "2023-12-19T22:00:00+09:00",
+    "twitter": "https://twitter.com/headofmican"
+  },
+   {
+    "title": "Optimism",
+    "website": "https://www.optimism.io/",
+    "twitter": "https://twitter.com/optimismFND"
   }
 ]

@@ -37,9 +37,11 @@
     "date": "2023-12-19T22:00:00+09:00",
     "twitter": "https://twitter.com/headofmican"
   },
-   {
-    "title": "We ❤️ the Art(OP)",
-    "website": "https://www.optimism.io/",
-    "twitter": "https://twitter.com/optimismFND"
-  }
+  {
+    "title": "Kelp DAO",
+    "date": "2023-12-26T21:00:00+09:00",
+    "website": "https://www.kelpdao.xyz/",
+    "twitter": "https://twitter.com/KelpDAO",
+    "discord": "https://discord.gg/WEpquPgw"
+  },
 ]

@@ -1,16 +1,17 @@
 [
   {
-    "title": "Espresso Systems",
-    "website": "https://www.espressosys.com/",
-    "twitter": "https://twitter.com/EspressoSys",
-    "discord": "https://discord.gg/skT7nuPY"
-  },
-  {
     "title": "Monad",
     "date": "2024-01-09T22:00:00+09:00",
     "website": "https://www.monad.xyz/",
     "twitter": "https://twitter.com/monad_xyz",
     "discord": "https://discord.gg/monad"
+  },
+   {
+    "title": "Espresso Systems",
+    "date": "2024-01-11T21:00:00+09:00",
+    "website": "https://www.espressosys.com/",
+    "twitter": "https://twitter.com/EspressoSys",
+    "discord": "https://discord.gg/skT7nuPY"
   },
    {
     "title": "ZKX 2回目",

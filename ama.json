@@ -1,21 +1,21 @@
 [
-  {
-    "title": "Backpack",
-    "date": "2024-03-11T21:00:00+09:00",
-    "website": "https://backpack.exchange/",
-    "twitter": "https://twitter.com/Backpack"
-  },
  {
-    "title": "Partisia",
-    "date": "2024-03-14T21:00:00+09:00",
-    "website": "https://partisiablockchain.com/",
-    "twitter": "https://twitter.com/partisiampc"
-  },
-  {
     "title": "Fuel",
     "date": "2024-03-21T22:00:00+09:00",
     "website": "https://fuel.network/",
     "twitter": "https://twitter.com/fuel_network"
+  },
+ {
+    "title": "CyberConnect",
+    "date": "2024-03-22T21:00:00+09:00",
+    "website": "https://cyber.co/",
+    "twitter": "https://twitter.com/CyberConnectHQ"
+  },
+  {
+    "title": "Babylon",
+    "date": "2024-03-29T21:00:00+09:00",    
+    "website": "https://babylonchain.io/",
+    "twitter": "https://twitter.com/babylon_chain"
   },
   {
     "title": "Pixelmon × Mask",

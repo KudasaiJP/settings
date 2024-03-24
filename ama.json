@@ -12,6 +12,12 @@
     "twitter": "https://twitter.com/CyberConnectHQ"
   },
   {
+    "title": "Pixelmon × Mask",
+    "date": "2024-03-25T21:00:00+09:00", 
+    "website": "https://hub.pixelmon.ai/",
+    "twitter": "https://twitter.com/Pixelmon"
+  },
+  {
     "title": "Babylon",
     "date": "2024-03-29T21:00:00+09:00",    
     "website": "https://babylonchain.io/",
@@ -22,10 +28,5 @@
     "date": "2024-04-02T22:00:00+09:00",    
     "website": "https://tevaera.com/",
     "twitter": "https://twitter.com/tevaera"
-  },
-  {
-    "title": "Pixelmon × Mask",
-    "website": "https://hub.pixelmon.ai/",
-    "twitter": "https://twitter.com/Pixelmon"
   }
 ]

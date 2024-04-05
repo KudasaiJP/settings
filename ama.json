@@ -1,28 +1,14 @@
 [
-  {
-    "title":   "bitSmiley",
-    "date":    "2024-04-01T20:00:00+09:00",
-    "note":    "on bitSmiley's Discord",
-    "discord": "https://discord.gg/G26U4Xpd?event=1223946996495159346",
-    "website": "https://www.bitsmiley.io/",
-    "twitter": "https://twitter.com/bitsmiley_labs"
-  },
-  {
-    "title":   "AltLayer",
-    "date":    "2024-04-03T21:00:00+09:00",
-    "website": "https://altlayer.io/",
-    "twitter": "https://twitter.com/alt_layer"
-  },
-  {
-    "title":   "Babylon",
-    "date":    "2024-04-04T21:00:00+09:00",
-    "website": "https://babylonchain.io/",
-    "twitter": "https://twitter.com/babylon_chain"
-  },
-  {
+ {
     "title":   "io.net",
     "date":    "2024-04-09T22:00:00+09:00",
     "website": "https://io.net/",
     "twitter": "https://twitter.com/ionet_official"
-  }
+ },
+ {
+    "title":   "BigTime",
+    "date":    "2024-04-019T21:00:00+09:00",
+    "website": "https://bigtime.gg/",
+    "twitter": "https://twitter.com/playbigtime"
+ }  
 ]

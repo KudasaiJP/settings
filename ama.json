@@ -1,13 +1,18 @@
 [
   {
-    "title":   "BigTime",
-    "date":    "日時未定",
-    "website": "https://bigtime.gg/",
-    "twitter": "https://twitter.com/playbigtime"
-  },
-  {
     "title":   "KudasaiJP Beginner クイズ大会",
     "date":    "2024-04-20T22:00:00+09:00",
     "telegram": "https://t.me/KudasaiJPxB"
+  },
+  {
+    "title":   "Reya",
+    "date":    "2024-04-23T21:00:00+09:00",
+    "website": "https://reya.network/",
+    "twitter": "https://twitter.com/reya_xyz"
+  },
+  {
+    "title":   "BigTime",
+    "website": "https://bigtime.gg/",
+    "twitter": "https://twitter.com/playbigtime"
   }
 ]

@@ -11,7 +11,13 @@
     "website": "https://bigtime.gg/",
     "twitter": "https://twitter.com/playbigtime"
   },
-   {
+  {
+    "title":   "MyShell",
+    "date":    "2024-05-07T21:00:00+09:00",
+    "website": "https://myshell.ai/",
+    "twitter": "https://twitter.com/myshell_ai"
+  },
+  {
     "title":   "Tevaera",
     "website": "https://tevaera.com/",
     "twitter": "https://twitter.com/tevaera"
@@ -20,10 +26,5 @@
     "title":   "Bouncebit",
     "website": "https://bouncebit.io/",
     "twitter": "https://twitter.com/bounce_bit"
-  },
-  {
-    "title":   "MyShell",
-    "website": "https://myshell.ai/",
-    "twitter": "https://twitter.com/myshell_ai"
   }
 ]

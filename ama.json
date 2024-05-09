@@ -1,19 +1,18 @@
 [
   {
-    "title":   "Bouncebit",
-    "date":    "2024-05-08T21:00:00+09:00",
-    "website": "https://bouncebit.io/",
-    "twitter": "https://twitter.com/bounce_bit"
-  },
-  {
     "title":   "Tevaera",
     "date":    "2024-05-13T21:00:00+09:00",
     "website": "https://tevaera.com/",
     "twitter": "https://twitter.com/tevaera"
   }, 
   {
+    "title":   "Base",
+    "date":    "2024-05-22T21:00:00+09:00",
+    "website": "https://www.base.org/",
+    "twitter": "https://twitter.com/base"
+  },
+  {
     "title":   "BNBChain MVB",
-    "date":    "2024-05-15T21:00:00+09:00",
     "website": "https://www.bnbchain.org/en/bsc-mvb-program",
     "twitter": "https://twitter.com/BNBCHAIN"
   },

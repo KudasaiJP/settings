@@ -1,23 +1,5 @@
 [
   {
-    "title":   "Tevaera",
-    "date":    "2024-05-13T21:00:00+09:00",
-    "website": "https://tevaera.com/",
-    "twitter": "https://twitter.com/tevaera"
-  }, 
-  {
-    "title":   "Base",
-    "date":    "2024-05-22T21:00:00+09:00",
-    "website": "https://www.base.org/",
-    "twitter": "https://twitter.com/base"
-  },
-  {
-    "title":   "BNBChain MVB",
-    "date":    "2024-05-23T21:00:00+09:00",
-    "website": "https://www.bnbchain.org/en/bsc-mvb-program",
-    "twitter": "https://twitter.com/BNBCHAIN"
-  },
-  {
     "title":   "CoinMusme",
     "date":    "2024-05-28T21:00:00+09:00",
     "website": "https://coinmusme.com/",
@@ -25,6 +7,7 @@
   },
   {
     "title":   "Omakase",
+    "date":    "2024-05-25T22:00:00+09:00",
     "website": "https://0xmakase.co.jp/",
     "twitter": "https://twitter.com/0xmakase_jp"
   }

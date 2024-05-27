@@ -1,4 +1,4 @@
-import { assert, fail } from "https://deno.land/std@0.178.0/testing/asserts.ts";
+import { assert, fail } from "https://deno.land/std@0.224.0/assert/mod.ts";
 
 function assertString(
   expr: unknown,
@@ -28,13 +28,14 @@ function assertDateString(expr: unknown): asserts expr {
   assert(!Number.isNaN(time), "存在しない日付です");
 }
 
-// deno-lint-ignore no-explicit-any
-let json: any[];
+async function getAmaJson(): Promise<Record<string, string>[]> {
+  const text = await Deno.readTextFile("./ama.json");
+  return JSON.parse(text);
+}
 
 Deno.test("JSONの形式が正しいことを確認", async () => {
   try {
-    const text = await Deno.readTextFile("./ama.json");
-    json = JSON.parse(text);
+    const json = await getAmaJson();
     assert(Array.isArray(json));
   } catch {
     fail("JSONの形式が正しくありません");
@@ -42,6 +43,8 @@ Deno.test("JSONの形式が正しいことを確認", async () => {
 });
 
 Deno.test("各項目の確認", async (t) => {
+  const json = await getAmaJson();
+
   for (let i = 0; i < json.length; i++) {
     const ama = json[i];
     assert(ama.title != null, `${i + 1} 番目の項目にタイトルがありません`);
@@ -71,7 +74,7 @@ Deno.test("各項目の確認", async (t) => {
 
       if (ama.twitter != null) {
         await t.step("Twitterを確認", () => {
-          assertStartsWith(ama.twitter, "https://twitter.com");
+          assertStartsWith(ama.twitter, "https://twitter.com", "https://x.com");
         });
       }
 

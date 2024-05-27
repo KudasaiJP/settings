@@ -1,14 +1,13 @@
 [
   {
-    "title":   "Omakase",
-    "date":    "2024-05-25T22:00:00+09:00",
-    "website": "https://0xmakase.co.jp/",
-    "twitter": "https://twitter.com/0xmakase_jp"
-  },
-  {
     "title":   "CoinMusme",
     "date":    "2024-05-28T21:00:00+09:00",
     "website": "https://coinmusme.com/",
     "twitter": "https://twitter.com/coinmusme_JP"
+  },
+  {
+    "title":   "Brilliantcrypto",
+    "website": "https://brilliantcrypto.net/",
+    "twitter": "https://x.com/Brypto_JP"
   }
 ]
